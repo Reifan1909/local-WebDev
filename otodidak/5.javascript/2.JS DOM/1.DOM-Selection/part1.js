@@ -1,4 +1,4 @@
-// DOM Selection
+// DOM Selection part 1
 
 // document.getElementById() -> element
 const judul = document.getElementById('judul'); // mencari sesuai id
@@ -9,6 +9,7 @@ judul.style.color = 'blue';
 judul.style.backgroundColor = 'red';
 // mengubah tulisan tanpa menyentuh HTML
 judul.innerHTML = 'Halo Dunia';
+
 
 
 // document.getElementsByTagName() -> HTMLCollections
@@ -28,6 +29,7 @@ const h1 = document.getElementsByTagName('h1')[0];  // seperti ini juga bisa [0]
 h1.style.fontSize = '10px';
 
 
+
 // document.getElementsByClassName() -> HTMLCollecttion
-const p1 = document.getElementsByClassName('p1');
+const p1 = document.getElementsByClassName('p1');  // mencari sesuai class
 p1[0].innerHTML = "Edit paragraft 1 pake JS";
