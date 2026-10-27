@@ -1,0 +1,20 @@
+Constan -> sebuah identifier untuk menyimpan nilai
+
+bedanya dg variable -> nilainya tidak bisa dirubah nilainya
+
+define(name, value) 
+OR
+const name = value
+
+perbedaan: define tidak bisa disimpan didalam class
+
+
+Magic Constant
+__LINE__        -> menampilkan line pd coding
+__FILE__        -> menampilkan alamat file
+__DIR__         -> mengetahui direktori
+__FUNCTION__    -> mengetahui lagi di function apa
+__CLASS__       -> mengetahui lagi di class apa
+__TRAIT__       -> 
+__METHOD__      -> 
+__NAMESPACE__   -> 

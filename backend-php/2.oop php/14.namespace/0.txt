@@ -1,0 +1,5 @@
+namespace -> sebuah cara untuk mengelompokkan program ke dalam sebuah package tersendiri.....
+di sebut teknik Encapsulation
+
+why?
+PHP tidak mengijinkan kita untuk memiliki 2 Class dg nama yg sama, dengan "namespace", kita bisa melakukan itu

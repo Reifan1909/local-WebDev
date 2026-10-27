@@ -1,0 +1,8 @@
+visibility > untuk mengatur akses dari property dan method pada sebuah objek
+
+3 keyword dalam visibility(public, protected, privat) 
+- public = dapat digunakan dimana saja, bahkan diluar kelas
+
+- protected = hanya dapat digunakan didalam sebuah kelas beserta turunannya(childnya)
+
+- private = hanya dapat digunakan didalam sebuah kelas tertentu saja

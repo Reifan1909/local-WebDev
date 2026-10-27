@@ -1,0 +1,20 @@
+Property -> Variable yang ada didalam object
+Methode -> Function yang ada didalam object 
+
+ctt: didepannya ditulis "public"
+
+
+ex: Mobil
+Property
+- nama
+- merk
+- warna
+- kecepatanMax
+- jmlhPenumpang
+
+Methode
+- tambahKecepatan
+- kurangiKecepatan
+- gantiTransmisi
+- belokKiri
+- belokKanan

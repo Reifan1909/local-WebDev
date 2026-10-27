@@ -1,0 +1,6 @@
+lanjutan visibility
+
+- merapikan properti public menjadi private
+- menerapkan method untuk set & get
+
+set = input, get = output

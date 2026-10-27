@@ -1,0 +1,6 @@
+contohnya dikasus produk mobil, semua mobil memiliki propoerty yg sama, tapi ada beberapa mobil yg memiliki properti dan method tambahan
+
+ex: 
+- mobil sport ada tambahan property TURBO dan method JALANKANTURBO
+
+ada tambahan "extends" di class barunya

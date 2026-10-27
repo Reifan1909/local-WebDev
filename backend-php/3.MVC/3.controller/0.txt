@@ -1,0 +1,10 @@
+1. Persiapan
+-> Buat struktur Folder, index.php, init.core(php, App.php, Controller.php).
+
+2. Routing 
+Buat agar url nya lebih rapi, yaitu otomatis memanggil controller dan method default(index)
+- bikin .htaccess per folder agar user tidak bisa akses forder tertentu
+- ambil data dari url, ex /home/about/satu/ , dan dipisah menjadi array
+
+3. Controller
+- jika tidak menuliskan apapun diurl nya, maka akan otomatis memanggil controller & method default

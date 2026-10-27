@@ -1,0 +1,16 @@
+1. Persiapan
+- Buat struktur Folder, index.php, init.core(php, App.php, Controller.php).
+
+2. Routing 
+Buat agar url nya lebih rapi, yaitu otomatis memanggil controller dan method default(index)
+- bikin .htaccess per folder agar user tidak bisa akses forder tertentu
+- ambil data dari url, ex /home/about/satu/ , dan dipisah menjadi array
+
+3. Controller
+- jika tidak menuliskan apapun diurl nya, maka akan otomatis memanggil controller & method default
+
+4. View
+- ganti isi method yg ada didalam folder controller menjadi tampilan html di folder views
+
+4. Assets
+- Buat file Controller/Constants.php, disini letakkan template url localhost, jika menggunakan CSS & JS secara offline(framework), berlaku juga untuk gambar

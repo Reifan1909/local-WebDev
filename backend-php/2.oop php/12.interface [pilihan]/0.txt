@@ -1,0 +1,16 @@
+Interface(1)
+- KELAS ABSTRAK yg sama sekali tidak memiliki implementasi
+- MURNI merupakan template untuk kelas turunannya
+- TIDAK BOLEH memiliki property, hanya deklarasi method saja
+- Semua method harus dideklarasikan dg visibility "public"
+boleh mendeklarasi __contruct()
+- satu kelas boleh mengimplementasikan banyak interface
+
+
+ganti "class" menjadi "interface"
+ganti "extends" menjadi "implements"
+
+
+Interface(2)
+- Dengan menggunakna type-hinting dapat melakukan 'Dependency Injection'
+- Pada akhirnya akan mencapai Polymorphism

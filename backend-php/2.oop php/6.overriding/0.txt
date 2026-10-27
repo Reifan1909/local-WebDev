@@ -1,0 +1,5 @@
+sebelumnya kita tidak bisa memanggil function "$this->getInfoProduk()" yang ada di parentnya, jarna this akan memanggil dari child tersebut, sehingga ganti this menjadi:
+
+parent::getInfoProduk()
+
+tapi tidak bisa dimasukkan kedalam {}

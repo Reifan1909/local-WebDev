@@ -1,0 +1,8 @@
+Static Keyword
+- member yg terikat dengan class, bukan dg object
+- nilai static akan selau tetap meskipun object di-instansiasi berulang kali -> di CONTOH 2
+
+
+- membuat kode menjadi 'procedural'
+- biasanya digunakan untuk membuat fungsi bantuan/helper
+- Atau di gunakan di class-class utility pd framword

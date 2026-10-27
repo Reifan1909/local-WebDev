@@ -1,0 +1,3 @@
+contohnya, 
+- ketika ada parent class dan ada 2 turunannya(child)
+- tapi instansiasi berguna untuk child nya saja, dan tidak ada gunannya juga untuk instansiasi parentnya, sehingga dengan abstract tidak dapat menjalankan class parentnya

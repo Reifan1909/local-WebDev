@@ -1,0 +1,9 @@
+Autoloading
+-> memanggil class(file) tanpa harus menggunakan 'require'
+
+"1 class ditulis dalam 1 file"
+
+require?, tidak digunakan karna akan merepotkan untuk project besar
+
+// cara autoloading
+spl_autoload_register()
